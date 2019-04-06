@@ -7,4 +7,4 @@ The simulated satellite link delays packets and occasionally throws some away wh
 
 The trace file is plain text and each line contains the record for exactly one packet (more on the file format in the next section). What we would like to be able to do is get a graphical display of how much data comes from a particular source host over time, or how much data goes to a particular destination host over the course of an experiment. 
 
-Experiments typically take between 90 seconds and about. This application dsiplays that information in a graphical way.
+Experiments typically take between 90 seconds and about 11 minutes. This application dsiplays that information in a graphical way.
