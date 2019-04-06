@@ -1,0 +1,8 @@
+first time referrence = first time the ip address was encountered; 
+for eachline read :
+    update a current time referrence and check with the first time referrence:
+        if less than first time referrence + 2:
+            perform the byte cal. 
+        else:
+            push the bytes on the arraylist, map 
+            reinitialize the variables for new cal. 
